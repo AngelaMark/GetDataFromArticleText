@@ -1,0 +1,2 @@
+GetDataFromArticleText
+======================
